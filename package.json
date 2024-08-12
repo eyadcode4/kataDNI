@@ -1,0 +1,14 @@
+{
+  "name": "dnikatajs",
+  "version": "1.0.0",
+  "description": "",
+  "main": "dni.js",
+  "scripts": {
+    "test": "vitest"
+  },
+  "author": "eyad",
+  "license": "ISC",
+  "dependencies": {
+    "vitest": "^2.0.5"
+  }
+}
